@@ -1,0 +1,9 @@
+BASIC of Quantum Computing:- 
+
+1)Berkeley course  "Quantum Mechanics and Quantum Computation" video lecture series by Professor Umesh Vazirani.--
+https://youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7&si=t5CnI_ntl9IenOqn
+
+
+2)The Coding School Programs -- https://www.qubitbyqubit.org/
+
+
